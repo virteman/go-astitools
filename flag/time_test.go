@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/asticode/go-astitools/flag"
+	"github.com/virteman/go-astitools/flag"
 	"github.com/stretchr/testify/assert"
 )
 

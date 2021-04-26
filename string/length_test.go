@@ -3,7 +3,7 @@ package astistring_test
 import (
 	"testing"
 
-	"github.com/asticode/go-astitools/string"
+	"github.com/virteman/go-astitools/string"
 	"github.com/stretchr/testify/assert"
 )
 

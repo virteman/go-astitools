@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	astiworker "github.com/asticode/go-astitools/worker"
+	astiworker "github.com/virteman/go-astitools/worker"
 )
 
 // Orders

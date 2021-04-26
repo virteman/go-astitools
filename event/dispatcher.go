@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	astisync "github.com/asticode/go-astitools/sync"
+	astisync "github.com/virteman/go-astitools/sync"
 )
 
 // Dispatcher represents an object that can dispatch simple events (name + payload)
